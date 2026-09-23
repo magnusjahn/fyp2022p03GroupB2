@@ -1,7 +1,7 @@
 # fyp2022p03GroupB2
 
 ## First Year Project 3
-Third of three projects from the First Year Project course in the Data Science BSc at ITU Copenhagen - focus: natural language processing.
+Third of three projects from the First Year Project course in the Data Science BSc at ITU Copenhagen - focus: natural language processing and the classification of tweets.
 
 Group members:
 - Gustav Kristensen
