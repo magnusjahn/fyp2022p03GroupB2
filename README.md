@@ -1,7 +1,14 @@
 # fyp2022p03GroupB2
+
 ## First Year Project 3
-### Natural Language Processing with tweets
-Group members: Gustav, Marie, Magnus, Viggo & Frida
+Third of three projects from the First Year Project course in the Data Science BSc at ITU Copenhagen - focus: natural language processing.
+
+Group members:
+- Gustav Kristensen
+- Marie Haahr Petersen
+- Viggo Unmack Gascou
+- Frida Nøhr Laustsen
+- Magnus Simoni Jahn
 
 #### Dataset
 https://github.com/cardiffnlp/tweeteval
